@@ -35,11 +35,20 @@ We're **Ame Studio** — a small but ambitious indie game studio based in Indone
 <div align="center">
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-355570?style=for-the-badge&logo=godotengine&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Ableton](https://img.shields.io/badge/Ableton-000000?style=for-the-badge&logo=abletonlive&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+</div>
+
+## 👥 Meet the Team
+
+<div align="center">
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| [![AlfianFadil](https://github.com/AlfianFadil.png?size=100)](https://github.com/AlfianFadil)<br>**AlfianFadil** | [![Azelzy](https://github.com/Azelzy.png?size=100)](https://github.com/Azelzy)<br>**Azuka Takayama** | [![DraniXx-PNG](https://github.com/DraniXx-PNG.png?size=100)](https://github.com/DraniXx-PNG)<br>**DraniXx-PNG** | [![Elstarlight](https://github.com/Elstarlight.png?size=100)](https://github.com/Elstarlight)<br>**Maximillian Mikhael** |
+| [![JosephTortellini](https://github.com/JosephTortellini.png?size=100)](https://github.com/JosephTortellini)<br>**Joseph** | [![IhsanHU-coder](https://github.com/IhsanHU-coder.png?size=100)](https://github.com/IhsanHU-coder)<br>**IhsanHU** | | |
 
 </div>
 
