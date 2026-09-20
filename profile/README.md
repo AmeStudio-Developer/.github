@@ -47,8 +47,8 @@ We're **Ame Studio** — a small but ambitious indie game studio based in Indone
 
 | | | | |
 |:---:|:---:|:---:|:---:|
-| [![AlfianFadil](https://github.com/AlfianFadil.png?size=100)](https://github.com/AlfianFadil)<br>**AlfianFadil** | [![Azelzy](https://github.com/Azelzy.png?size=100)](https://github.com/Azelzy)<br>**Azuka Takayama** | [![DraniXx-PNG](https://github.com/DraniXx-PNG.png?size=100)](https://github.com/DraniXx-PNG)<br>**DraniXx-PNG** | [![Elstarlight](https://github.com/Elstarlight.png?size=100)](https://github.com/Elstarlight)<br>**Maximillian Mikhael** |
-| [![JosephTortellini](https://github.com/JosephTortellini.png?size=100)](https://github.com/JosephTortellini)<br>**Joseph** | [![IhsanHU-coder](https://github.com/IhsanHU-coder.png?size=100)](https://github.com/IhsanHU-coder)<br>**IhsanHU** | | |
+| <img src="https://github.com/AlfianFadil.png" width="100" height="100"><br>**AlfianFadil** | <img src="https://github.com/Azelzy.png" width="100" height="100"><br>**Azuka Takayama** | <img src="https://github.com/DraniXx-PNG.png" width="100" height="100"><br>**DraniXx-PNG** | <img src="https://github.com/Elstarlight.png" width="100" height="100"><br>**Maximillian Mikhael** |
+| <img src="https://github.com/JosephTortellini.png" width="100" height="100"><br>**Joseph** | <img src="https://github.com/IhsanHU-coder.png" width="100" height="100"><br>**IhsanHU** | | |
 
 </div>
 
