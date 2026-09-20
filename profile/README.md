@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🎮✨ AME STUDIO ✨🎮
+# AME STUDIO
 
-### 📍 Independent Game Developer straight outta Indonesia 📍
+### Independent Game Developer from Indonesia
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Making+games+one+bug+at+a+time+%F0%9F%90%9B;Fueled+by+coffee+%26+chaos+%E2%98%95;Every+genre%2C+one+studio+%F0%9F%8E%AE;Welcome+to+our+corner+of+GitHub+%F0%9F%91%8B)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Making+games+one+bug+at+a+time;Fueled+by+coffee+and+chaos;Every+genre%2C+one+studio;Welcome+to+our+corner+of+GitHub)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amestudideveloper)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amestudiodeveloper@gmail.com)
@@ -15,22 +15,24 @@
 
 </div>
 
-## 🔥 Who Are We?
+## Who Are We?
 
-We're **Ame Studio** — a small but ambitious indie game studio based in Indonesia, cooking up games across all kinds of genres. No niche is off-limits: platformers, RPGs, puzzle games, weird experimental stuff — if it sounds fun, we're probably prototyping it right now.
+**Ame Studio** is an independent game development studio based in Indonesia. We started as a small group of friends who wanted to turn our game ideas into something real, and we've grown into a team that builds across a wide range of genres — from tight platformers and story-driven RPGs to puzzle games and weird experimental prototypes that don't fit any category at all.
+
+We don't lock ourselves into one style or engine. Every project starts from a question we're curious about — "what if a game did *this*?" — and we chase that idea until it becomes something playable. Along the way we've learned a lot, broken a lot of builds, and had a lot of fun doing it.
 
 ```
-🎲 status: brewing new ideas
-🎮 mode: always building something
-☕ fuel level: critically high
+status: brewing new ideas
+mode: always building something
+fuel level: critically high
 ```
 
-- 🚀 **Indie & proud** — small team, big dreams
-- 🎨 **Genre-hoppers** — we don't stick to just one style
-- 🛠️ **Always shipping** — from tiny jams to full releases
-- 🤝 **Collab-friendly** — devs, artists, musicians, hit us up!
+- **Indie & proud** — small team, big dreams
+- **Genre-hoppers** — we don't stick to just one style
+- **Always shipping** — from tiny jams to full releases
+- **Collab-friendly** — devs, artists, musicians, hit us up
 
-## 🧰 Our Toolbox
+## Our Toolbox
 
 <div align="center">
 
@@ -41,7 +43,7 @@ We're **Ame Studio** — a small but ambitious indie game studio based in Indone
 
 </div>
 
-## 👥 Meet the Team
+## Meet the Team
 
 <div align="center">
 
@@ -52,32 +54,43 @@ We're **Ame Studio** — a small but ambitious indie game studio based in Indone
 
 </div>
 
-## 🕹️ Games We're Cooking
-
-> 👀 Nothing's out of the oven yet — but stay tuned, it's coming!
+## Latest Project
 
 <div align="center">
 
-| 🎮 Game | 🏷️ Genre | 📌 Status |
+<img src="PASTE_IMAGE_LINK_HERE" width="700" alt="Latest project banner">
+
+### Project Name Here
+
+*One or two sentences about what this game is, the genre, and what makes it interesting.*
+
+**Status:** In Development
+
+</div>
+
+## Other Projects
+
+<div align="center">
+
+| Game | Genre | Status |
 |:---:|:---:|:---:|
-| *Mystery Project #1* | ??? | 🚧 In Development |
-| *Mystery Project #2* | ??? | 💡 Concept Phase |
+| *Mystery Project #2* | TBA | Concept Phase |
 
 </div>
 
-## 📈 Studio Vibes
+## Studio Vibes
 
 <div align="center">
 
-![Location](https://img.shields.io/badge/📍_Based_in-Indonesia-red?style=flat-square)
-![Status](https://img.shields.io/badge/⚡_Status-Actively_Developing-success?style=flat-square)
-![Vibe](https://img.shields.io/badge/🔥_Energy-Maximum-orange?style=flat-square)
+![Location](https://img.shields.io/badge/Based_in-Indonesia-red?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Actively_Developing-success?style=flat-square)
+![Vibe](https://img.shields.io/badge/Energy-Maximum-orange?style=flat-square)
 
 </div>
 
-## 📬 Come Say Hi!
+## Come Say Hi
 
-Got feedback, a collab idea, or just want to fangirl/fanboy over indie games with us?
+Got feedback, a collab idea, or just want to talk about indie games with us?
 
 <div align="center">
 
@@ -91,7 +104,7 @@ Got feedback, a collab idea, or just want to fangirl/fanboy over indie games wit
 
 <div align="center">
 
-### ⭐ Thanks for dropping by — hit that follow button and let's build something awesome together! ⭐
+### Thanks for dropping by — hit that follow button and let's build something awesome together
 
 ![Divider](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
